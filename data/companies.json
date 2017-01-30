@@ -6,34 +6,34 @@
     "image": {
       "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/shopster@3x.png",
       "width": 348,
-      "height": 81,
+      "height": 81
     },
     "personnel": [
       {
         "firstName": "Luka",
         "lastName": "Čehovin Zajc",
         "image": {
-          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/rok_%C4%8Ce%C5%A1novar.png",
-        },
+          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/rok_%C4%8Ce%C5%A1novar.png"
+        }
       },
       {
         "firstName": "Branko",
         "lastName": "Šter",
         "image": {
-          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/branko_%C5%A0ter_2.png",
-        },
+          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/branko_%C5%A0ter_2.png"
+        }
       },
       {
         "firstName": "Patricio",
         "lastName": "Bulić",
         "image": {
-          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png",
-        },
-      },
+          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png"
+        }
+      }
     ],
     "content": "<div>\
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum lacus non nulla lacinia, id lobortis metus maximus. Maecenas finibus dui quam, iaculis volutpat purus ultrices non. Proin ut porttitor neque, sed bibendum velit.</p>\
-    </div>",
+    </div>"
   },
   {
     "title": "Outfit 7",
@@ -42,8 +42,8 @@
     "image": {
       "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/outfit_7@3x.png",
       "width": 333,
-      "height": 108,
-    },
+      "height": 108
+    }
   },
   {
     "title": "Celtra",
@@ -52,8 +52,8 @@
     "image": {
       "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/celtra@3x.png",
       "width": 273,
-      "height": 120,
-    },
+      "height": 120
+    }
   },
   {
     "title": "Nil",
@@ -62,8 +62,8 @@
     "image": {
       "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/nil@3x.png",
       "width": 264,
-      "height": 81,
-    },
+      "height": 81
+    }
   },
   {
     "title": "Microsoft",
@@ -72,7 +72,7 @@
     "image": {
       "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/microsoft@3x.png",
       "width": 330,
-      "height": 72,
-    },
-  },
+      "height": 72
+    }
+  }
 ]
