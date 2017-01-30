@@ -1,9 +1,9 @@
 [
   {
     "title": "bioinformatiko",
-    "location": "R1.23",
+    "location": "R3.20",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20adaptivne%20sisteme%20in%20parelelno%20procesiranje_p2.jpg",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Laboratorij%20za%20bioinformatiko.jpg",
     },
     "personnel": [
       {
@@ -32,146 +32,146 @@
   },
   {
     "title": "umetne vizualne spoznavne sisteme",
-    "location": "R1.23",
+    "location": "R2.36",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20algoritme%20in%20podatkovne%20strukture.jpg",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20umetne%20vizualne%20spoznavne%20sisteme.jpg",
     },
     "content": "<p>V laboratoriju se ukvarjamo s sistemi, ki uporabljajo vid za zaznavanje okolja in interakcijo z njim. Primeri takšnih sistemov so mobilni roboti, inteligentna okolja itd. Imamo izkušnje z vizualnim sledenjem predmetom, z detekcijo in kategorizacijo predmetov, z inkrementalnim učenjem na osnovi vizualne informacije, s sistemi za interakcijo med človekom in strojem. Te izkušnje smo osvojili v sodelovanju z mnogimi raziskovalnimi partnerji iz Evrope in ZDA v okviru dela na mnogih evropskih, nacionalnih ter industrijskih projektih.</p>"
   },
   {
     "title": "kognitivno modeliranje",
-    "location": "R1.23",
+    "location": "R2.26",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Laboratorij%20za%20bioinformatiko.jpg",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20kognitivno%20modeliranje.jpg",
     },
     "content": "<p>V LKM raziskujemo področja podatkovnega rudarjenja, nevronskih mrež, umetne inteligence, analize velikih podatkovnih baz, analize podatkovnih tokov, večina raziskav pa zajema strojno učenje. Razvijamo in uporabljamo nove pristope in algoritme za modeliranje podatkov na različnih področjih. Sodelujemo z zdravniki, farmacevti, biologi ter strokovnjaki na področju športa. Naša raziskovalna podpodročja so modeliranje numeričnih, simbolnih, slikovnih, tekstovnih in prostorskih podatkov, medicinska diagnostika in prognostika, generiranje delno umetnih podatkov, itd.</p>",
   },
   {
     "title": "podatkovne tehnologije",
-    "location": "R1.23",
+    "location": "R2.44",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20e-medije.jpg",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20podatkovne%20tehnologije.jpg",
     },
     "content": "<p>V laboratoriju se ukvarjamo z raziskavami na področju podatkovnih tehnologij, ki vključujejo zajem, integracijo, analizo in vizualizacijo podatkov. Posebne ekspertize imamo na področjih analize omrežij, zajema, iskanja in ekstrakcije podatkov s spleta, ipd. V sodelovanju z industrijskimi partnerji smo razvili številne prototipe in nove tehnologije. Pred leti smo ustanovili podjetje, ki je danes vodilno slovensko podjetje na področju detekcije goljufij v zavarovalništvu. Za svoje delo in prenos znanja v gospodarstvo smo prejeli več nagrad in priznanj.</p>",
   },
   {
     "title": "umetno inteligenco",
     "content": "<p>Laboratorij izvaja raziskave iz naslednjih področij: strojno učenje (posebej argumentirano strojno učenje – ABML, induktivno logično programiranje, robotsko učenje), kvalitativno sklepanje z aplikacijami v robotiki (planiranje, učenje za planiranje), aplikacije strojnega učenja v medicini, inteligentni poučevalni sistemi (za programiranje in igranje iger, avtomatsko generiranje namigov, avtomatsko ocenjevanje težavnosti problemov za ljudi).</p>",
-    "location": "",
+    "location": "R3.54",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20umetno%20inteligenco.jpg",
     },
   },
   {
     "title": "integracijo informacijskih sistemov",
     "content": "<p>V laboratoriju raziskujemo na področju integracije in interoperabilnosti aplikacij, naprav, informacijskih sistemov, arhitektur in platform. Osredotočamo se predvsem na programske platforme, kot so Java EE, HTML5, SOA, ukvarjamo pa se tudi z orkestracijo, upravljanjem API-jev, elastičnostjo, s PaaS, SaaS,  IaaS, itd. Raziskujemo tehnologije, ki omogočajo izvedbo, spremljanje in optimizacijo poslovnih procesov. Vključeni smo v razvoj platform FI-WARE. Raziskave osredotočamo tudi na integracijo z napravami IoT in raziskavami, povezanimi z mobilnostjo rešitev.</p>",
-    "location": "",
+    "location": "R2.20",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20integracijo%20informacijskih%20sistemov.jpg",
     },
   },
   {
     "title": "e-medije",
     "content": "<p>Laboratorij se ukvarja z raziskavami na področjih varnosti, s poudarkom na kriptografskih protokolih, varnostnih arhitekturah in varnostjo v decentraliziranih komunikacijskih sistemih. Raziskovalne aktivnosti zajemajo še modeliranje človeškega dejavnika z razvojem rešitev, ki podpirajo sprejemanje odločitev pri upravljanju informacijskih sistemov in kritične infrastrukture. Patentirali smo kriptografske protokole. Rezultati naših raziskav vključujejo implementacijo upravljanja oskrbovalne verige v prehrambenem sektorju s pomočjo tehnologij RFID.</p>",
-    "location": "",
+    "location": "R3.50",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20e-medije.jpg",
     },
   },
   {
     "title": "matematične metode v računalništvu in informatiki",
     "content": "<p>Raziskovalna področja laboratorija gredo v smeri zvezne in diskretne matematike. Raziskovalno delujemo na problemih komutativne in linearne algebre, nelinearnih dinamičnih sistemov, Brownovega gibanja in martingalov, algebraične topologije kot tudi računske topologije, uporabe topoloških metod v analizi podatkov in problemi numerične analize. Na diskretni strani matematičnega spektra raziskujemo predvsem na področju teorije grafov, natančneje nas zanimajo problemi iz strukturne in kromatične teorije grafov, tudi v povezavi  z računsko geometrijo.</p>",
-    "location": "",
+    "location": "R3.26",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20matemati%C4%8Dne%20metode%20v%20ra%C4%8Dunalni%C5%A1tvu.jpg",
     },
   },
   {
     "title": "informatiko",
     "content": "<p>Glavne raziskovalne aktivnosti laboratorija vključujejo: (1) Metodologije razvoja programske opreme in evalvacijo poslovnih procesov: zasnovali smo sodobne in učinkovite metode za evalvacijo informacijskih sistemov, obvladovanje sprememb v informacijskem sistemu in obvladovanje odpora končnih uporabnikov pri IT projektih; (2) Strateško planiranje informatike: s tega področja imamo veliko izkušenj in referenc. (3) Kontekstno odvisne aplikacije: Razvili smo prototip kontekstnega strežnika in nameravamo nadaljevati z raziskavami na tem področju.</p>",
-    "location": "",
+    "location": " R2.60",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20informatiko.jpg",
     },
   },
   {
     "title": "računalniški vid",
     "content": "<p>Raziskujemo na področjih računalniškega vida in multimedije, posebej nas zanima zajem, obdelava in interpretacija 3D slikovnih podatkov, razumevanje in interpretacija človeškega telesa na slikah, strojno učenje v računalniškem vidu. Zanimajo nas še: interaktivni slikovni informacijski vmesniki, 3D dokumentiranje v arheologiji in kulturni dediščini, 3D modeliranje, interpretacija medicinskih slik in slik v umetnostni zgodovini, forenzična analiza slik in videa, aplikacije za učenje znakovnega jezika gluhih in produkcija novomedijskih umetniških instalacij v sodelovanju z ALU UL.</p>",
-    "location": "",
+    "location": "R2.33",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ki%20vid.jpg",
     },
   },
   {
     "title": "računalniške strukture in sisteme",
     "content": "<p>Raziskave laboratorija so usmerjene v računske metode za modeliranje, simulacijo in analizo bioloških sistemov s procesnimi zmožnostmi, bioloških sistemov, ki odražajo skupinsko dinamiko, in kvantnih celičnih  avtomatov (QCA). Laboratorij je tako sestavljen iz treh skupin, in sicer Skupine za računske metode v sistemski in sintezni biologiji, Skupine za skupinsko dinamiko in Skupine QCA. Rezultati našega dela so bili objavljeni v najodmevnejših znanstvenih revijah, kot sta na primer Nanotechnology in Animal Behaviour.</p>",
-    "location": "",
+    "location": "R3.56",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ke%20strukture%20in%20sisteme.jpg",
     },
   },
   {
     "title": "algoritme in podatkovne strukture",
     "content": "<p>V laboratoriju izvajamo raziskave s področij aproksimacijskih in verjetnostnih algoritmov, algoritmov linearne algebre, kombinatorične optimizacije (npr. usmerjanje podatkov v grafih, porazdeljevanje virov v grafih, itd.),  vzporednega računanja (npr. preslikavanje in razvrščanje algoritmov na rač. arhitekturah, uporaba večnitnosti, podatkovno-pretokovno računanje), prevajalnikov (npr. sintaksni analizatorji),  razvoja operacijskih sistemov, grid računanja (npr. replikacija podatkov) ter nasploh izračunljivosti in računske zahtevnosti.</p>",
-    "location": "",
+    "location": "R2.30",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20algoritme%20in%20podatkovne%20strukture.jpg",
     },
   },
   {
     "title": "vseprisotne sisteme",
     "content": "<p>Osnovno raziskovalno področje laboratorija predstavlja delo s podatki v porazdeljenih okoljih, in sicer kako učinkovito hraniti več tera-bajtov podatkov in kako z njimi učinkovito rokovati. Porazdeljeno okolje samo po sebi omogoča vzporedno procesiranje, kar zahteva ustrezno porazdelitev podatkov in samega dela. Trenutno je naše raziskovanje usmerjeno na tri področja: rokovanje z nestrukturiranimi podatki, razpodvajanje podatkov in sprotno procesiranje podatkov. Delo laboratorija se širi tudi na področje poučevanja računalništva in informatike.</p>",
-    "location": "",
+    "location": "R3.53",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20vseprisotne%20siteme%20LUSY.jpg",
     },
   },
   {
     "title": "tehnologijo programske opreme",
     "content": "<p>V laboratoriju raziskujemo postopke za razvoj programske opreme in informacijskih sistemov s poudarkom na agilnih metodah, grafnih gramatikah in modelno vodenem razvoju. Predmet raziskav so: Agilni razvoj programske opreme (faktorji, ki vplivajo na uspešno uvedbo agilnih metod, itd.); Grafne gramatike; Modelno voden razvoj (gradnja platformno neodvisnih modelov spletnih aplikacij s postopki obratnega inženirstva, itd.); Analiza obiskov spletnih mest (Uporaba stohastičnih modelov za analizo obnašanja uporabnikov in razpletanje prepletenih sej z uporabo hevrističnih metod).</p>",
-    "location": "",
+    "location": "R2.30",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20tehnologijo%20programske%20opreme.jpg",
     },
   },
   {
     "title": "računalniško grafiko in multimedije",
     "content": "<p>V LGM se ukvarjamo z raziskavami in razvojem na področju medijskih tehnologij, komunikacije človek-računalnik in računalniške grafike. Osredotočeni smo predvsem na obdelavo zvočnih signalov in pridobivanje informacij iz glasbe (semantični opisi zvočnih posnetkov, indeksiranje, organizacija glasbenih arhivov), interaktivno 3D vizualizacijo in igre (vizualizacija v medicini) ter e-Izobraževanje. Imamo veliko izkušenj z razvojem namiznih, mobilnih in spletnih/oblačnih rešitev. Pri delu sodelujemo s partnerji pri številnih slovenskih, EU in industrijskih projektih.</p>",
-    "location": "",
+    "location": "R2.29",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ko%20grafiko%20in%20multimedije.jpg",
     },
   },
   {
     "title": "biomedicinske računalniške sisteme in oslikave",
     "content": "<p>Laboratorij je vključen v temeljne raziskave povezane z biomedicinskimi signali in  slikami. Glavni raziskovalni cilji so: razumevanje in opisovanje fizioloških fenomenov, grafično prikazovanje anatomskih detajlov in fizioloških funkcij in razmerij, vizualizacija biomedicinskih signalov in slik, razvoj standardiziranih podatkovnih baz z namenom študije fizioloških mehanizmov in vrednotenja zmogljivosti ter robustnosti razpoznavalnih tehnik, postavljanje kriterijev detekcije in razpoznavalnih tehnik za avtomatsko analizo bioelektričnih vzorcev, itd.</p>",
-    "location": "",
+    "location": "R3.27",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20biomedicinske%20ra%C4%8Dunalni%C5%A1ke%20sisteme%20in%20oslikave.jpg",
     },
   },
   {
     "title": "kriptografijo in računalniško varnost",
     "content": "<p>Laboratorij deluje na področju kriptografije in računalniške varnosti. Posvečamo se tudi diskretni matematiki, teoriji kodiranja in statističnemu načrtovanju. Ukvarjamo se predvsem z uporabno kriptografijo s poudarkom na kriptosistemih z javnimi ključi (kriptosistemi z eliptičnimi krivuljami), kriptografskih protokolih in njihovih implementacijah v omejenih okoljih (pametne kartice). Pokrivamo tudi področje diskretnih struktur (konkretno, algebraično kombinatoriko, končne geometrije in obsege, optimizacijo, ...) ter področje verjetnosti in statistike.</p>",
-    "location": "",
+    "location": "R3.28",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20kriptografijo%20in%20ra%C4%8Dunalni%C5%A1ko%20varnost.jpg",
     },
   },
   {
     "title": "adaptivne sisteme in paralelno procesiranje",
     "content": "<p>Raziskovalno delo v laboratoriju je osredotočeno na razvoj adaptivnih algoritmov za potrebe mehkega računanja in podatkovnega rudarjenja in na načrtovanje računalniških sistemov. Smo aktivni pri načrtovanju hitrih in energijsko učinkovitih aritmetičnih vezij, pri programiranju časovno zahtevnih algoritmov na GPE in pri učinkoviti izrabi heterogenih sistemih. Razvijamo tudi pametna brezžična senzorska omrežja, ki jih poskušamo izboljšati s prepletanjem računalniških procesov. Rezultati našega dela so vključeni v številne izdelke po vsem svetu.</p>",
-    "location": "",
+    "location": "R2.41",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20adaptivne%20sisteme%20in%20parelelno%20procesiranje_p2.jpg",
     },
   },
   {
     "title": "računalniške komunikacije",
     "content": "<p>Glavna raziskovalna področja so: komunikacijska omrežja in protokoli, oblačne arhitekture in storitve, varnost omrežij in oblakov, virtualizacija omrežij, infrastrukture in podatkovne shrambe, računalniško podprta učna okolja, itd. Na področju oblačne arhitekture smo raziskovali avtomatizacijo izgradnje kompleksnih virtualnih okolij (orkestracija). Raziskovali smo rabo SDN/NFV in uporabo teh konceptov v oblačnih okoljih ter integracijo protokolov za upravljanje z identitetami, avtentikacijo, avtorizacijo in oddaljeno administracijo v velika produkcijska okolja in v oblačne sisteme.</p>",
-    "location": "",
+    "location": "R3.51",
     "image": {
-      "url": "",
+      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ke%20komunikacije.jpg",
     },
   },
 ]
