@@ -8,71 +8,74 @@
       "width": 348,
       "height": 81
     },
-    "personnel": [
-      {
-        "firstName": "Luka",
-        "lastName": "Čehovin Zajc",
-        "image": {
-          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/rok_%C4%8Ce%C5%A1novar.png"
-        }
-      },
-      {
-        "firstName": "Branko",
-        "lastName": "Šter",
-        "image": {
-          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/branko_%C5%A0ter_2.png"
-        }
-      },
-      {
-        "firstName": "Patricio",
-        "lastName": "Bulić",
-        "image": {
-          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png"
-        }
-      }
-    ],
-    "content": ["<div>",
-      "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum lacus non nulla lacinia, id lobortis metus maximus. Maecenas finibus dui quam, iaculis volutpat purus ultrices non. Proin ut porttitor neque, sed bibendum velit.</p>",
-    "</div>"]
+    "content": "<p>Ekipa petih mladih podjetnikov si je zadala ključno nalogo – spremeniti način nakupovanja znotraj trgovin in trgovskih centrov. S pomočjo sodobne tehnologije vam znotraj stavb zagotavljajo iskanje in vodenje do vseh izdelkov na prodajnih policah ter s pomočjo strojnega učenja celotno nakupovalno izkušnjo prilagajajo potrebam in željam vsakega posameznega kupca. Z željo po realizaciji ideje so se podjetniki podali v svet zagonskih podjetji – znana tudi kot startup podjetja.</p>",
   },
   {
-    "title": "Outfit 7",
+    "title": "Garaža",
+    "accentColor": "#dc1c1b",
+    "location": "Garaža",
+    "image": {
+      "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/shopster@3x.png",
+      "width": 348,
+      "height": 81
+    },
+    "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum lacus non nulla lacinia, id lobortis metus maximus. Maecenas finibus dui quam, iaculis volutpat purus ultrices non. Proin ut porttitor neque, sed bibendum velit.</p>",
+  },
+  {
+    "title": "Cosylab",
     "accentColor": "#4feb36",
     "location": "ST1",
     "image": {
       "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/outfit_7@3x.png",
       "width": 333,
       "height": 108
-    }
+    },
+    "content": "<p>Cosylab d.d. je tehnološko podjetje, ki se osredotoča na razvoj naprednih tehnologij za svetovne trge. Izdelujemo inovativne produkte in storitve namenjene tehnološko zahtevnim kupcem in trgom. V svetu je podjetje znano po razvoju kontrolnih sistemov za pospeševalnike ter teleskope, geografskih informacijskih sistemih, razvoju aplikacij za telekomunikacije ter napredni elektroniki za avtomobilsko industrijo.</p>",
   },
   {
-    "title": "Celtra",
+    "title": "Gorenje",
     "accentColor": "#ff3366",
     "location": "ST2",
     "image": {
       "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/celtra@3x.png",
       "width": 273,
       "height": 120
-    }
+    },
+    "content": "<p>Skupina Gorenje je eden izmed vodilnih evropskih proizvajalcev izdelkov za dom, ki s tehnološko dovršenimi, inovativnimi, energetsko učinkovitimi in vrhunsko oblikovanimi aparati za dom uporabnikom po vsem svetu ponujajo preprosto, intuitivno uporabniško izkušnjo in jim olajšujejo življenje.</p>"
+    
   },
   {
-    "title": "Nil",
+    "title": "NIL",
     "accentColor": "#55b4ed",
     "location": "ST3",
     "image": {
       "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/nil@3x.png",
       "width": 264,
       "height": 81
-    }
+    },
+    "content": "<p>Podjetje NIL je v več kot dveh desetletjih obstoja postalo priznan in spoštovan poslovni partner, kar potrjujejo predvsem številne uspešne implementacije komunikacijsko-informacijskih rešitev v najzahtevnejših poslovnih in organizacijskih okoljih. NIL neprestano izboljšuje in nadgrajuje znanje ter kompetence. To dokazujejo tudi številne certifikacije in dolgoletna partnerstva z nekaterimi najvidnejšimi proizvajalci v panogi: Cisco, RSA, VMware, Microsoft, IBM, F5, VCE, EMC, Veeam, MobileIron in Palo Alto Networks.</p>"
   },
   {
-    "title": "Microsoft",
+    "title": "KOLEKTOR",
     "accentColor": "#ffb900",
     "location": "ST4",
     "image": {
       "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/microsoft@3x.png",
       "width": 330,
       "height": 72
-    }
-  }
+    },
+    "content": "<p>Koncern Kolektor je eno največjih slovenskih podjetij v elektropredelovalni dejavnosti. Jedro delovanja predstavlja proizvodnja komutatorjev, kjer so vodilni svetovni proizvajalec. Dejavnost koncerna Kolektor je osredotočena na tri panožne stebre: avtomobilsko tehniko, stavbno tehniko in industrijsko tehniko.</p>"
+  },
+  
+  {
+    "title": "Crea",
+    "accentColor": "#ffb900",
+    "location": "ST4",
+    "image": {
+      "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/microsoft@3x.png",
+      "width": 330,
+      "height": 72
+    },
+    "content": "<p>CREA je vodilna slovenska svetovalna in izvedbena družba na področju upravljanja poslovnih procesov in varnega elektronskega poslovanja v regiji. S povezovanjem dolgoletnih izkušenj in znanja vrhunskih strokovnjakov z različnih poslovnih področij zagotavlja CREA organizacijam večjo učinkovitost in obvladljivost poslovnih procesov ter prehod na varno elektronsko poslovanje.</p>"
+  
 ]
