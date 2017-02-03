@@ -28,7 +28,8 @@
       "title": "Upravna informatika",
       "subtitle": "univerzitetni interdisciplinarni program",
       "gradTitle": "diplomirani inženir upravne informatike (UN)",
-       "content": "<p>Interdisciplinarni univerzitetni študijski program Fakultete za upravo in Fakultete za računalništvo in informatiko Upravna informatika omogoča študentom pridobitev kombinacije interdisciplinarnih znanj s področja upravnih in informacijskih znanosti. S tako kombinacijo znanj bi študenti imeli ustrezne kompetence za poglobljeno razumevanje procesov upravljanja, vodenja in menedžmenta, njihovo kritično analizo in razvoj informacijskih rešitev, ki bi bili osnova za njihovo boljše izvajanje. Diplomanti programa bodo sposobni razvijati in vzdrževati celovite informacijske rešitve, tako informacijske sisteme kot tudi potrebno strojno in programsko opremo. Študijski program bo tako izobraževal sodobne strokovnjake s področja upravne informatike, kateri se bodo sposobni vključiti v delo na področju javne uprave, javnega sektorja ali v gospodarstvu tako doma, kakor tudi v Evropski uniji.</p>"
+      "content": "<p>Interdisciplinarni univerzitetni študijski program Fakultete za upravo in Fakultete za računalništvo in informatiko Upravna informatika omogoča študentom pridobitev kombinacije interdisciplinarnih znanj s področja upravnih in informacijskih znanosti. S tako kombinacijo znanj bi študenti imeli ustrezne kompetence za poglobljeno razumevanje procesov upravljanja, vodenja in menedžmenta, njihovo kritično analizo in razvoj informacijskih rešitev, ki bi bili osnova za njihovo boljše izvajanje. Diplomanti programa bodo sposobni razvijati in vzdrževati celovite informacijske rešitve, tako informacijske sisteme kot tudi potrebno strojno in programsko opremo. Študijski program bo tako izobraževal sodobne strokovnjake s področja upravne informatike, kateri se bodo sposobni vključiti v delo na področju javne uprave, javnega sektorja ali v gospodarstvu tako doma, kakor tudi v Evropski uniji.</p>"
+    }
   ],
   "Magistrski študij": [
     {
@@ -74,7 +75,6 @@
       "subtitle": "interdisciplinarni doktorski program",
       "gradTitle": "doktor znanosti z navedbo znanstvenega področja na doktorski listini",
       "content": "<p>Interdisciplinarni doktorski študijski program je skupen projekt štirih fakultet Univerze v Ljubljani: Biotehniške fakultete (koordinatorice programa), Fakultete za elektrotehniko, Fakultete za računalništvo in informatiko ter Fakultete za strojništvo. Bioznanosti je triletni doktorski program tretje bolonjske stopnje, na katerem se kandidati usposabljajo na tradicionalnih, že uveljavljenih temeljnih in aplikativnih znanstvenih smereh, ali pa se odločijo za nova znanstvena področja, ki jih narekuje razvoj novih tehnologij in potreb v družbi.</p>"
-    },
-  
+    }
   ]
 }
