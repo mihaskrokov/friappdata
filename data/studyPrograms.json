@@ -1,47 +1,80 @@
 {
   "Dodiplomski študij": [
     {
-      "title": "Računalništvo in Informatika",
-      "subtitle": "Univerzitetni program",
+      "title": "Računalništvo in informatika",
+      "subtitle": "univerzitetni program",
       "gradTitle": "diplomirani inženir računalništva in informatike (UN)",
       "content": "<p>Študij računalništva in informatike na Fakulteti za računalništvo in informatiko Univerze v Ljubljani je študij z najdaljšo tradicijo na tem področju v Sloveniji. Študentom ponuja temeljna in praktična znanja, ki so potrebna za delo v stroki, v skladu z najsodobnejšimi merili in standardi, ki za tovrstno izobraževanje veljajo v svetu. Zaradi izbirnosti v programu naši diplomanti niso strogo usmerjeni le v stroko, temveč so široko razgledani in visoko usposobljeni strokovnjaki.</p>"
     },
     {
       "title": "Računalništvo in Informatika",
-      "subtitle": "Visokošolški program",
-      "gradTitle": "diplomirani inženir računalništva in informatike (UN)",
+      "subtitle": "Visokošolski strokovni študijski program",
+      "gradTitle": "diplomirani inženir računalništva in informatike (VS)",
+      "content": "<p>Tako kot drugi prvostopenjski študiji tudi Visokošolski strokovni študij traja tri leta. Prvi letnik je sestavljen iz nabora obveznih predmetov, ki študentom dajejo osnovna matematična, teoretična in strokovna znanja. V drugem in tretjem letniku se študenti z izbiranjem predmetov usmerijo v zaželene strokovne profile. Nabor predmetov pri posameznem profilu je določen z odvisnostmi med predmeti, ki nakazujejo poti oz. znanja, ki jih mora študent osvojiti. Ti predmeti predstavljajo različna področja računalništva (spletne tehnologije, programska oprema, strojna oprema, informacijski sistemi...) in študenta vodijo, da med študijem izbere dve različni področji računalništva, to je, dve ožji strokovni področji, ki ga najbolj zanimata. Tako kot študenti prvostopenjskega univerzitetnega programa lahko tudi študenti visokega strokovnega programa nadaljujejo študij na bolonjski drugi in tretji stopnji.</p>"
     },
     {
-      "title": "Računalništvo in Informatika",
-      "subtitle": "Univerzitetni program",
-      "gradTitle": "diplomirani inženir računalništva in informatike (UN)",
+      "title": "Računalništvo in matematika",
+      "subtitle": "Univerzitetni interdisciplinarni študijski program",
+      "gradTitle": "diplomirani inženir računalništva in matematike (UN)",
+      "content": "<p>Študij izvajata skupaj Fakulteta za računalništvo in informatiko ter Fakulteta za matematiko in fiziko. Usmerjen je v teoretične osnove računalništva in z njimi povezana sodobna področja diskretne in računalniške matematike. Tekom študija študenti pridobijo široko pregledno znanje osnov informatike in računalništva in se naučijo obvladovati ter kasneje tudi razvijati nove dosežke na tem področju, trdna matematična podlaga pa jim pomaga pri razumevanju in vključevanju na nova interdisciplinarna področja. Danes so takšna aktualna področja na primer biotehnologija, biomedicinska informatika, teoretična kemija… Kaj bo aktualno čez tri leta, ko bodo letošnji maturanti pred diplomo, pa je danes nemogoče napovedati.</p>"
     },
     {
-      "title": "Računalništvo in Informatika",
-      "subtitle": "Univerzitetni program",
-      "gradTitle": "diplomirani inženir računalništva in informatike (UN)",
+      "title": "Multimedija",
+      "subtitle": "univerzitetni interdisciplinarni program",
+      "gradTitle": "diplomirani inženir multimedije (UN)",
+      "content": "<p>Postanite izjemno konkurenčni diplomant najnovejšega programa Univerze v Ljubljani, ki združuje nekatere najboljše lastnosti elektrotehnike, računalništva, ustvarjalnosti, poslovnih znanj in komunikacije. Ta znanja vam bodo omogočila poseči po enem izmed 900.000 prostih delovnih mest v Evropi ter se potegovati za delo v najbolj uspešnih in najbolj inovativnih podjetjih doma in po svetu. Poleg tega so znanja, pridobljena na univerzitetnem študijskem programu Multimedija, odlična odskočna deska za nadaljevanje študija ter raziskovalno delo doma in v tujini. Predvsem pa boste obvladali vse tisto, kar potrebujete, da vaš talent in domišljija zaživita v digitalnem svetu.</p>"
     },
+    {
+      "title": "Upravna informatika",
+      "subtitle": "univerzitetni interdisciplinarni program",
+      "gradTitle": "diplomirani inženir upravne informatike (UN)",
+       "content": "<p>Interdisciplinarni univerzitetni študijski program Fakultete za upravo in Fakultete za računalništvo in informatiko Upravna informatika omogoča študentom pridobitev kombinacije interdisciplinarnih znanj s področja upravnih in informacijskih znanosti. S tako kombinacijo znanj bi študenti imeli ustrezne kompetence za poglobljeno razumevanje procesov upravljanja, vodenja in menedžmenta, njihovo kritično analizo in razvoj informacijskih rešitev, ki bi bili osnova za njihovo boljše izvajanje. Diplomanti programa bodo sposobni razvijati in vzdrževati celovite informacijske rešitve, tako informacijske sisteme kot tudi potrebno strojno in programsko opremo. Študijski program bo tako izobraževal sodobne strokovnjake s področja upravne informatike, kateri se bodo sposobni vključiti v delo na področju javne uprave, javnega sektorja ali v gospodarstvu tako doma, kakor tudi v Evropski uniji.</p>"
   ],
   "Magistrski študij": [
     {
       "title": "Računalništvo in Informatika",
-      "subtitle": "Univerzitetni program",
-      "gradTitle": "diplomirani inženir računalništva in informatike (UN)",
+      "subtitle": "Magistrski študijski program druge stopnje",
+      "gradTitle": "magister inženir računalništva in informatike (MAG)",
+      "content": "<p>Magistrski študijski program druge stopnje Računalništvo in informatika daje bodočim magistrom znanje in spretnosti, da bodo sposobni slediti razvoju in tehnološkim spremembam ter se vključiti v razvojno in znanstveno delo, ki nudi izjemne možnosti za zaposlitev v Sloveniji in po svetu. Predmetnik omogoča oblikovanje študija glede na lastne želje, motivacijo in nagnjenja. Izbirne vsebine pokrivajo široko paleto področij in tehnologij ter tako dovoljujejo različne strokovne specializacije.</p>"
     },
     {
-      "title": "Računalništvo in Informatika",
-      "subtitle": "Visokošolški program",
-      "gradTitle": "diplomirani inženir računalništva in informatike (UN)",
+      "title": "Pedagoško računalništvo in informatika",
+      "subtitle": "interdisciplinarni magistrski program",
+      "gradTitle": "magister profesor računalništva in informatike (MAG)",
+      "content": "<p>Interdisciplinarni magistrski študijski program druge stopnje Pedagoško računalništvo in informatika izvajamo skupaj s Pedagoško fakulteto Univerze v Ljubljani. S programom želimo pripomoči k boljši izobrazbi učiteljev in s tem k dvigu kvalitete pouka računalništva v slovenskih šolah. Diplomanti tega študija bodo obvladali računalništvo in bili istočasno usposobljeni za pedagoško delo. </p>"
     },
     {
-      "title": "Računalništvo in Informatika",
-      "subtitle": "Univerzitetni program",
-      "gradTitle": "diplomirani inženir računalništva in informatike (UN)",
+      "title": "Multimedija",
+      "subtitle": "interdisciplinarni magistrski program",
+      "gradTitle": "magister inženir multimedije (MAG)",
+      "content": "<p></p>"
     },
     {
-      "title": "Računalništvo in Informatika",
-      "subtitle": "Univerzitetni program",
-      "gradTitle": "diplomirani inženir računalništva in informatike (UN)",
+      "title": "Računalništvo in matematika",
+      "subtitle": "interdisciplinarni magistrski program",
+      "gradTitle": "magister inženir računalništva in matematike (MAG)",
+      "content": "<p>Program je namenjen diplomantom 1. stopnje naslednjih študijskih programov: Interdisciplinarni študij Računalništvo in matematika, Matematika ter Računalništvo in informatika, odprt pa je tudi za diplomante drugih prvostopenjskih programov. Cilji programa zajemajo usposobljenost za razvoj in delo z novimi informacijskimi tehnologijami, za raziskovalno delo na področju matematike in teoretičnega računalništva, in sposobnost hitrega osvajanja novih znanj s področja računalništva in informatike ter s sorodnih področij matematike.</p>"
+    },
+    {
+      "title": "Kognitivna znanost",
+      "subtitle": "interdisciplinarni magistrski program",
+      "gradTitle": "magister kognitivne znanosti (MAG)",
+      "content": "<p>Interdisciplinarni magistrski študijski program druge stopnje Kognitivna znanost se izvaja skupaj s Pedagoško fakulteto, Medicinsko fakulteto in Filozofsko fakulteto Univerze v Ljubljani ter s konzorcijem tujih univerz. Kognitivna znanost raziskuje duševnost. Njene temeljne discipline so nevroznanost, umetna inteligenca, biologija, jezikoslovje, antropologija, filozofija in psihologija. Cilj študija je izšolati raziskovalce na področju kognitivne znanosti in strokovnjake, usposobljene za povezovalno delo pri interdisciplinarnih projektih. Magistri bodo sposobni dognanja kognitivne znanosti uporabiti na specifičnih področjih, kot so poučevanje, izdelava programske opreme za strojno učenje, merjenje uporabniške izkušnje, izdelava vmesnikov in vodenje skupinskih procesov.</p>"
     },
   ],
+  "Doktorski študij": [
+    {
+      "title": "Računalništvo in Informatika",
+      "subtitle": "Doktorski program",
+      "gradTitle": "doktor znanosti",
+      "content": "<p>Bolonjski doktorski študijski program Računalništvo in informatika se izvaja od študijskega leta 2009/2010. Študij je namenjen poglabljanju znanja računalništva in urjenju v raziskovalnem delu. Priporočamo ga tako študentom, ki nameravajo ostati v akademski sferi kot tistim, ki bodo opravljali zahtevnejša razvojno-inovacijska dela v računalniški industriji.</p>"
+    },
+    {
+      "title": "Bioznanost",
+      "subtitle": "interdisciplinarni doktorski program",
+      "gradTitle": "doktor znanosti z navedbo znanstvenega področja na doktorski listini",
+      "content": "<p>Interdisciplinarni doktorski študijski program je skupen projekt štirih fakultet Univerze v Ljubljani: Biotehniške fakultete (koordinatorice programa), Fakultete za elektrotehniko, Fakultete za računalništvo in informatiko ter Fakultete za strojništvo. Bioznanosti je triletni doktorski program tretje bolonjske stopnje, na katerem se kandidati usposabljajo na tradicionalnih, že uveljavljenih temeljnih in aplikativnih znanstvenih smereh, ali pa se odločijo za nova znanstvena področja, ki jih narekuje razvoj novih tehnologij in potreb v družbi.</p>"
+    },
+  
+  ]
 }
