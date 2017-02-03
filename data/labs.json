@@ -5,29 +5,6 @@
     "image": {
       "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Laboratorij%20za%20bioinformatiko.jpg"
     },
-    "personnel": [
-      {
-        "firstName": "Luka",
-        "lastName": "Čehovin Zajc",
-        "image": {
-          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/rok_%C4%8Ce%C5%A1novar.png"
-        }
-      },
-      {
-        "firstName": "Branko",
-        "lastName": "Šter",
-        "image": {
-          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/branko_%C5%A0ter_2.png"
-        }
-      },
-      {
-        "firstName": "Patricio",
-        "lastName": "Bulić",
-        "image": {
-          "url": "http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png"
-        }
-      }
-    ],
     "content": [
       "<p>Laboratorij za bioinformatiko se ukvarja s podatkovno analitiko, strojnim učenjem in zlivanjem podatkov. Razvite tehnike uporablja predvsem v bioinformatiki (odtod tudi ime): raziskuje pristope umetne inteligence za iskanje odgovorov na vprašanja s področja sistemske biologije, funkcijske genomike in biomedicine. Laboratorij razvija tudi programsko opremo, kot je Orange (http://orange.biolab.si) za analizo in vizualizacijo podatkov ter dictyExpress (http://dictyexpress.biolab.si) za analizo genske ekspresije.</p>"
     ]

@@ -9,29 +9,6 @@
           "nagovor ravnatelja",
           "predstavitev študijskih programov",
         ],
-        "personnel": [
-          {
-            "firstName": "Luka",
-            "lastName": "Čehovin Zajc",
-            "image": {
-              "url": "http://www-ti.fri.uni-lj.si/sites/default/files/rok_%C4%8Ce%C5%A1novar.png",
-            },
-          },
-          {
-            "firstName": "Branko",
-            "lastName": "Šter",
-            "image": {
-              "url": "http://www-ti.fri.uni-lj.si/sites/default/files/branko_%C5%A0ter_2.png",
-            },
-          },
-          {
-            "firstName": "Patricio",
-            "lastName": "Bulić",
-            "image": {
-              "url": "http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png",
-            },
-          },
-        ],
         "content": "<div>\
           <img src='http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png' width='190' height='240' /> \
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum lacus non nulla lacinia, id lobortis metus maximus. Maecenas finibus dui quam, iaculis volutpat purus ultrices non. Proin ut porttitor neque, sed bibendum velit.</p>\
