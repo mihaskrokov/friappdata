@@ -3,7 +3,7 @@
     "title": "bioinformatiko",
     "location": "R3.20",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Laboratorij%20za%20bioinformatiko.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Laboratorij%20za%20bioinformatiko.jpg"
     },
     "content": [
       "<p>Laboratorij za bioinformatiko se ukvarja s podatkovno analitiko, strojnim učenjem in zlivanjem podatkov. Razvite tehnike uporablja predvsem v bioinformatiki (odtod tudi ime): raziskuje pristope umetne inteligence za iskanje odgovorov na vprašanja s področja sistemske biologije, funkcijske genomike in biomedicine. Laboratorij razvija tudi programsko opremo, kot je Orange (http://orange.biolab.si) za analizo in vizualizacijo podatkov ter dictyExpress (http://dictyexpress.biolab.si) za analizo genske ekspresije.</p>"
@@ -13,7 +13,7 @@
     "title": "umetne vizualne spoznavne sisteme",
     "location": "R2.36",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20umetne%20vizualne%20spoznavne%20sisteme.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20umetne%20vizualne%20spoznavne%20sisteme.jpg"
     },
     "content": [
       "<p>V laboratoriju se ukvarjamo s sistemi, ki uporabljajo vid za zaznavanje okolja in interakcijo z njim. Primeri takšnih sistemov so mobilni roboti, inteligentna okolja itd. Imamo izkušnje z vizualnim sledenjem predmetom, z detekcijo in kategorizacijo predmetov, z inkrementalnim učenjem na osnovi vizualne informacije, s sistemi za interakcijo med človekom in strojem. Te izkušnje smo osvojili v sodelovanju z mnogimi raziskovalnimi partnerji iz Evrope in ZDA v okviru dela na mnogih evropskih, nacionalnih ter industrijskih projektih.</p>"
@@ -23,7 +23,7 @@
     "title": "kognitivno modeliranje",
     "location": "R2.26",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20kognitivno%20modeliranje.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20kognitivno%20modeliranje.jpg"
     },
     "content": [
       "<p>V LKM raziskujemo področja podatkovnega rudarjenja, nevronskih mrež, umetne inteligence, analize velikih podatkovnih baz, analize podatkovnih tokov, večina raziskav pa zajema strojno učenje. Razvijamo in uporabljamo nove pristope in algoritme za modeliranje podatkov na različnih področjih. Sodelujemo z zdravniki, farmacevti, biologi ter strokovnjaki na področju športa. Naša raziskovalna podpodročja so modeliranje numeričnih, simbolnih, slikovnih, tekstovnih in prostorskih podatkov, medicinska diagnostika in prognostika, generiranje delno umetnih podatkov, itd.</p>"
@@ -33,7 +33,7 @@
     "title": "podatkovne tehnologije",
     "location": "R2.44",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20podatkovne%20tehnologije.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20podatkovne%20tehnologije.jpg"
     },
     "content": [
       "<p>V laboratoriju se ukvarjamo z raziskavami na področju podatkovnih tehnologij, ki vključujejo zajem, integracijo, analizo in vizualizacijo podatkov. Posebne ekspertize imamo na področjih analize omrežij, zajema, iskanja in ekstrakcije podatkov s spleta, ipd. V sodelovanju z industrijskimi partnerji smo razvili številne prototipe in nove tehnologije. Pred leti smo ustanovili podjetje, ki je danes vodilno slovensko podjetje na področju detekcije goljufij v zavarovalništvu. Za svoje delo in prenos znanja v gospodarstvo smo prejeli več nagrad in priznanj.</p>"
@@ -46,7 +46,7 @@
     ],
     "location": "R3.54",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20umetno%20inteligenco.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20umetno%20inteligenco.jpg"
     }
   },
   {
@@ -56,7 +56,7 @@
     ],
     "location": "R2.20",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20integracijo%20informacijskih%20sistemov.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20integracijo%20informacijskih%20sistemov.jpg"
     }
   },
   {
@@ -66,7 +66,7 @@
     ],
     "location": "R3.50",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20e-medije.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20e-medije.jpg"
     }
   },
   {
@@ -76,7 +76,7 @@
     ],
     "location": "R3.26",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20matemati%C4%8Dne%20metode%20v%20ra%C4%8Dunalni%C5%A1tvu.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20matemati%C4%8Dne%20metode%20v%20ra%C4%8Dunalni%C5%A1tvu.jpg"
     }
   },
   {
@@ -86,7 +86,7 @@
     ], 
     "location": " R2.60",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20informatiko.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20informatiko.jpg"
     }
   },
   {
@@ -96,7 +96,7 @@
     ],
     "location": "R2.33",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ki%20vid.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ki%20vid.jpg"
     }
   },
   {
@@ -106,7 +106,7 @@
     ],
     "location": "R3.56",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ke%20strukture%20in%20sisteme.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ke%20strukture%20in%20sisteme.jpg"
     }
   },
   {
@@ -116,7 +116,7 @@
     ],
     "location": "R2.30",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20algoritme%20in%20podatkovne%20strukture.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20algoritme%20in%20podatkovne%20strukture.jpg"
     }
   },
   {
@@ -126,7 +126,7 @@
     ],
     "location": "R3.53",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20vseprisotne%20siteme%20LUSY.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20vseprisotne%20siteme%20LUSY.jpg"
     }
   },
   {
@@ -136,7 +136,7 @@
     ],
     "location": "R2.30",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20tehnologijo%20programske%20opreme.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20tehnologijo%20programske%20opreme.jpg"
     }
   },
   {
@@ -146,7 +146,7 @@
     ],
     "location": "R2.29",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ko%20grafiko%20in%20multimedije.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ko%20grafiko%20in%20multimedije.jpg"
     }
   },
   {
@@ -156,7 +156,7 @@
     ],
     "location": "R3.27",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20biomedicinske%20ra%C4%8Dunalni%C5%A1ke%20sisteme%20in%20oslikave.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20biomedicinske%20ra%C4%8Dunalni%C5%A1ke%20sisteme%20in%20oslikave.jpg"
     }
   },
   {
@@ -166,7 +166,7 @@
     ],
     "location": "R3.28",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20kriptografijo%20in%20ra%C4%8Dunalni%C5%A1ko%20varnost.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20kriptografijo%20in%20ra%C4%8Dunalni%C5%A1ko%20varnost.jpg"
     }
   },
   {
@@ -176,7 +176,7 @@
     ],
     "location": "R2.41",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20adaptivne%20sisteme%20in%20parelelno%20procesiranje_p2.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20adaptivne%20sisteme%20in%20parelelno%20procesiranje_p2.jpg"
     }
   },
   {
@@ -186,7 +186,7 @@
     ],  
     "location": "R3.51",
     "image": {
-      "url": "http://www-ti.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ke%20komunikacije.jpg"
+      "url": "http://www.fri.uni-lj.si/sites/default/files/Lab%20za%20ra%C4%8Dunalni%C5%A1ke%20komunikacije.jpg"
     }
   }
 ]
