@@ -1,126 +1,132 @@
 {
-  "10.2. DOP": {
-    "10:00": [
-      {
-        "title": "Sprejem dijakov",
-        "location": "PA",
-        "accentColor": "#eb5858",
-        "description": [
-          "nagovor ravnatelja",
-          "predstavitev študijskih programov",
-        ],
-        "content": "<div>\
-          <img src='http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png' width='190' height='240' /> \
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum lacus non nulla lacinia, id lobortis metus maximus. Maecenas finibus dui quam, iaculis volutpat purus ultrices non. Proin ut porttitor neque, sed bibendum velit.</p>\
-        </div>",
-      },
-    ],
-    "12:00": [
-      {
-        "title": "Robotika",
-        "location": "P12",
-        "accentColor": "#eb8b58",
-        "content": "<div>\
-          <img src='http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png' width='190' height='240' /> \
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum lacus non nulla lacinia, id lobortis metus maximus. Maecenas finibus dui quam, iaculis volutpat purus ultrices non. Proin ut porttitor neque, sed bibendum velit.</p>\
-        </div>",
-      },
-      {
-        "title": "Predstavitev dronov",
-        "location": "P22",
-        "accentColor": "#ebd158",
-      },
-      {
-        "title": "Uporaba računalništva",
-        "location": "P22",
-        "accentColor": "#abeb58",
-      },
-      {
-        "title": "Karierni kotiček",
-        "location": "Glavni prostor",
-        "accentColor": "#4ed758",
-      },
-      {
-        "title": "Predstavitev Garaže",
-        "location": "Garaža",
-        "accentColor": "#4A84A3",
-      },
-    ],
-  },
-  "10.2. POP": {
-    "14:00": [
-      {
-        "title": "Sprejem dijakov",
-        "location": "PA",
-        "accentColor": "#eb5858",
-      },
-    ],
-    "16:00": [
-      {
-        "title": "Robotika",
-        "location": "P12",
-        "accentColor": "#eb8b58",
-      },
-      {
-        "title": "Predstavitev dronov",
-        "location": "P22",
-        "accentColor": "#ebd158",
-      },
-      {
-        "title": "Uporaba računalništva",
-        "location": "P22",
-        "accentColor": "#abeb58",
-      },
-      {
-        "title": "Karierni kotiček",
-        "location": "Glavni prostor",
-        "accentColor": "#4ed758",
-      },
-      {
-        "title": "Predstavitev Garaže",
-        "location": "Garaža",
-        "accentColor": "#4A84A3",
-      },
-    ],
-  },
-  "11.2. DOP": {
-    "10:00": [
-      {
-        "title": "Sprejem dijakov",
-        "location": "PA",
-        "accentColor": "#eb5858",
-        "description": [
-          "nagovor ravnatelja",
-          "predstavitev študijskih programov",
-        ],
-      },
-    ],
-    "12:00": [
-      {
-        "title": "Robotika",
-        "location": "P12",
-        "accentColor": "#eb8b58",
-      },
-      {
-        "title": "Predstavitev dronov",
-        "location": "P22",
-        "accentColor": "#ebd158",
-      },
-      {
-        "title": "Uporaba računalništva",
-        "location": "P22",
-        "accentColor": "#abeb58",
-      },
-      {
-        "title": "Karierni kotiček",
-        "location": "Glavni prostor",
-        "accentColor": "#4ed758",
-      },
-      {
-        "title": "Predstavitev Garaže",
-        "location": "Garaža",
-        "accentColor": "#4A84A3",
-      },
-    ],
-  },
+  "first": [
+    {
+      "title": "Sprejem dijakov",
+      "startTime": "10:00",
+      "location": "PA",
+      "accentColor": "#eb5858",
+      "description": [
+        "nagovor ravnatelja",
+        "predstavitev študijskih programov"
+      ],
+      "content": [
+        "<img src='http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png' width='190' height='240' />",
+        "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum lacus non nulla lacinia, id lobortis metus maximus. Maecenas finibus dui quam, iaculis volutpat purus ultrices non. Proin ut porttitor neque, sed bibendum velit.</p>"
+      ]
+    },
+    {
+      "title": "Robotika",
+      "startTime": "12:00",
+      "location": "P12",
+      "accentColor": "#eb8b58",
+      "content": [
+        "<img src='http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png' width='190' height='240' />",
+        "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum lacus non nulla lacinia, id lobortis metus maximus. Maecenas finibus dui quam, iaculis volutpat purus ultrices non. Proin ut porttitor neque, sed bibendum velit.</p>"
+      ]
+    },
+    {
+      "title": "Predstavitev dronov",
+      "startTime": "12:00",
+      "location": "P22",
+      "accentColor": "#ebd158"
+    },
+    {
+      "title": "Uporaba računalništva",
+      "startTime": "12:00",
+      "location": "P22",
+      "accentColor": "#abeb58"
+    },
+    {
+      "title": "Karierni kotiček",
+      "startTime": "12:00",
+      "location": "Glavni prostor",
+      "accentColor": "#4ed758"
+    },
+    {
+      "title": "Predstavitev Garaže",
+      "startTime": "12:00",
+      "location": "Garaža",
+      "accentColor": "#4A84A3"
+    }
+  ],
+  "second": [
+    {
+      "title": "Sprejem dijakov",
+      "startTime": "14:00",
+      "location": "PA",
+      "accentColor": "#eb5858"
+    },
+    {
+      "title": "Robotika",
+      "startTime": "16:00",
+      "location": "P12",
+      "accentColor": "#eb8b58"
+    },
+    {
+      "title": "Predstavitev dronov",
+      "startTime": "16:00",
+      "location": "P22",
+      "accentColor": "#ebd158"
+    },
+    {
+      "title": "Uporaba računalništva",
+      "startTime": "16:00",
+      "location": "P22",
+      "accentColor": "#abeb58"
+    },
+    {
+      "title": "Karierni kotiček",
+      "startTime": "16:00",
+      "location": "Glavni prostor",
+      "accentColor": "#4ed758"
+    },
+    {
+      "title": "Predstavitev Garaže",
+      "startTime": "16:00",
+      "location": "Garaža",
+      "accentColor": "#4A84A3"
+    }
+  ],
+  "third": [
+    {
+      "title": "Sprejem dijakov",
+      "startTime": "10:00",
+      "location": "PA",
+      "accentColor": "#eb5858",
+      "description": [
+        "nagovor ravnatelja",
+        "predstavitev študijskih programov"
+      ]
+    },
+    {
+      "title": "Robotika",
+      "startTime": "12:00",
+      "location": "P12",
+      "accentColor": "#eb8b58"
+    },
+    {
+      "title": "Predstavitev dronov",
+      "startTime": "12:00",
+      "location": "P22",
+      "accentColor": "#ebd158"
+    },
+    {
+      "title": "Uporaba računalništva",
+      "startTime": "12:00",
+      "location": "P22",
+      "accentColor": "#abeb58"
+    },
+    {
+      "title": "Karierni kotiček",
+      "startTime": "12:00",
+      "location": "Glavni prostor",
+      "accentColor": "#4ed758"
+    },
+    {
+      "title": "Predstavitev Garaže",
+      "startTime": "12:00",
+      "location": "Garaža",
+      "accentColor": "#4A84A3"
+    }
+  ]
 }
