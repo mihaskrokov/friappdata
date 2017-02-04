@@ -1,5 +1,5 @@
 {
-  "Dodiplomski študij": [
+  "dodiplomski": [
     {
       "title": "Računalništvo in informatika",
       "subtitle": "univerzitetni program",
@@ -41,7 +41,7 @@
       ]
     }
   ],
-  "Magistrski študij": [
+  "magistrski": [
     {
       "title": "Računalništvo in Informatika",
       "subtitle": "Magistrski študijski program druge stopnje",
@@ -83,7 +83,7 @@
       ]
     }
   ],
-  "Doktorski študij": [
+  "doktorski": [
     {
       "title": "Računalništvo in Informatika",
       "subtitle": "Doktorski program",
