@@ -4,87 +4,169 @@
       "title": "Sprejem dijakov",
       "startTime": "10:00",
       "location": "PA",
-      "accentColor": "#eb5858",
-      "description": [
-        "nagovor ravnatelja",
-        "predstavitev študijskih programov"
-      ],
-      "content": [
-        "<img src='http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png' width='190' height='240' />",
-        "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum lacus non nulla lacinia, id lobortis metus maximus. Maecenas finibus dui quam, iaculis volutpat purus ultrices non. Proin ut porttitor neque, sed bibendum velit.</p>"
-      ]
+      "accentColor": "#EB5859"
     },
+
     {
-      "title": "Robotika",
+      "title": "Igre",
       "startTime": "12:00",
-      "location": "P12",
-      "accentColor": "#eb8b58",
-      "content": [
-        "<img src='http://www-ti.fri.uni-lj.si/sites/default/files/patricio_buli%C4%87.png' width='190' height='240' />",
-        "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum lacus non nulla lacinia, id lobortis metus maximus. Maecenas finibus dui quam, iaculis volutpat purus ultrices non. Proin ut porttitor neque, sed bibendum velit.</p>"
-      ]
+      "location": "P16",
+      "accentColor": "#EBD157"
     },
+
     {
-      "title": "Predstavitev dronov",
+      "title": "Sheep Herding",
       "startTime": "12:00",
-      "location": "P22",
-      "accentColor": "#ebd158"
-    },
-    {
-      "title": "Uporaba računalništva",
-      "startTime": "12:00",
-      "location": "P22",
-      "accentColor": "#abeb58"
-    },
-    {
-      "title": "Karierni kotiček",
-      "startTime": "12:00",
-      "location": "Glavni prostor",
-      "accentColor": "#4ed758"
-    },
-    {
-      "title": "Predstavitev Garaže",
-      "startTime": "12:00",
-      "location": "Garaža",
+      "location": "P20",
       "accentColor": "#4A84A3"
+    },
+    {
+      "title": "Fishertechnik",
+      "startTime": "12:00",
+      "location": "P20",
+      "accentColor": "#4A84A3"
+    },
+    {
+      "title": "Minecraft Slovenia",
+      "startTime": "12:00",
+      "location": "P20",
+      "accentColor": "#4A84A3"
+    },
+
+    {
+      "title": "Zombie Walk",
+      "startTime": "12:00",
+      "location": "P19",
+      "accentColor": "#EB8B58"
+    },
+    {
+      "title": "Slavni dvojnik",
+      "startTime": "12:00",
+      "location": "P19",
+      "accentColor": "#EB8B58"
+    },
+    {
+      "title": "Parkinsoncheck",
+      "startTime": "12:00",
+      "location": "P19",
+      "accentColor": "#EB8B58"
+    },
+
+    {
+      "title": "Kriptografija",
+      "startTime": "12:00",
+      "location": "P21",
+      "accentColor": "#5BD1C0"
+    },
+    {
+      "title": "Peskovnik in Mindreader",
+      "startTime": "12:00",
+      "location": "P21",
+      "accentColor": "#5BD1C0"
+    },
+    {
+      "title": "Predstavitev projektov",
+      "startTime": "12:00",
+      "location": "P21",
+      "accentColor": "#5BD1C0"
+    },
+
+    {
+      "title": "Robotska roka",
+      "startTime": "12:00",
+      "location": "P18",
+      "accentColor": "#52CC5C"
+    },
+    {
+      "title": "Turtle bot",
+      "startTime": "12:00",
+      "location": "P18",
+      "accentColor": "#52CC5C"
     }
   ],
   "second": [
     {
       "title": "Sprejem dijakov",
-      "startTime": "14:00",
+      "startTime": "10:00",
       "location": "PA",
-      "accentColor": "#eb5858"
+      "accentColor": "#EB5859"
     },
+
     {
-      "title": "Robotika",
-      "startTime": "16:00",
-      "location": "P12",
-      "accentColor": "#eb8b58"
+      "title": "Igre",
+      "startTime": "12:00",
+      "location": "P16",
+      "accentColor": "#EBD157"
     },
+
     {
-      "title": "Predstavitev dronov",
-      "startTime": "16:00",
-      "location": "P22",
-      "accentColor": "#ebd158"
-    },
-    {
-      "title": "Uporaba računalništva",
-      "startTime": "16:00",
-      "location": "P22",
-      "accentColor": "#abeb58"
-    },
-    {
-      "title": "Karierni kotiček",
-      "startTime": "16:00",
-      "location": "Glavni prostor",
-      "accentColor": "#4ed758"
-    },
-    {
-      "title": "Predstavitev Garaže",
-      "startTime": "16:00",
-      "location": "Garaža",
+      "title": "Sheep Herding",
+      "startTime": "12:00",
+      "location": "P20",
       "accentColor": "#4A84A3"
+    },
+    {
+      "title": "Fishertechnik",
+      "startTime": "12:00",
+      "location": "P20",
+      "accentColor": "#4A84A3"
+    },
+    {
+      "title": "Minecraft Slovenia",
+      "startTime": "12:00",
+      "location": "P20",
+      "accentColor": "#4A84A3"
+    },
+
+    {
+      "title": "Zombie Walk",
+      "startTime": "12:00",
+      "location": "P19",
+      "accentColor": "#EB8B58"
+    },
+    {
+      "title": "Slavni dvojnik",
+      "startTime": "12:00",
+      "location": "P19",
+      "accentColor": "#EB8B58"
+    },
+    {
+      "title": "Parkinsoncheck",
+      "startTime": "12:00",
+      "location": "P19",
+      "accentColor": "#EB8B58"
+    },
+
+    {
+      "title": "Kriptografija",
+      "startTime": "12:00",
+      "location": "P21",
+      "accentColor": "#5BD1C0"
+    },
+    {
+      "title": "Peskovnik in Mindreader",
+      "startTime": "12:00",
+      "location": "P21",
+      "accentColor": "#5BD1C0"
+    },
+    {
+      "title": "Predstavitev projektov",
+      "startTime": "12:00",
+      "location": "P21",
+      "accentColor": "#5BD1C0"
+    },
+
+    {
+      "title": "Robotska roka",
+      "startTime": "12:00",
+      "location": "P18",
+      "accentColor": "#52CC5C"
+    },
+    {
+      "title": "Turtle bot",
+      "startTime": "12:00",
+      "location": "P18",
+      "accentColor": "#52CC5C"
     }
   ],
   "third": [
@@ -92,41 +174,84 @@
       "title": "Sprejem dijakov",
       "startTime": "10:00",
       "location": "PA",
-      "accentColor": "#eb5858",
-      "description": [
-        "nagovor ravnatelja",
-        "predstavitev študijskih programov"
-      ]
+      "accentColor": "#EB5859"
     },
+
     {
-      "title": "Robotika",
+      "title": "Igre",
       "startTime": "12:00",
-      "location": "P12",
-      "accentColor": "#eb8b58"
+      "location": "P16",
+      "accentColor": "#EBD157"
     },
+
     {
-      "title": "Predstavitev dronov",
+      "title": "Sheep Herding",
       "startTime": "12:00",
-      "location": "P22",
-      "accentColor": "#ebd158"
-    },
-    {
-      "title": "Uporaba računalništva",
-      "startTime": "12:00",
-      "location": "P22",
-      "accentColor": "#abeb58"
-    },
-    {
-      "title": "Karierni kotiček",
-      "startTime": "12:00",
-      "location": "Glavni prostor",
-      "accentColor": "#4ed758"
-    },
-    {
-      "title": "Predstavitev Garaže",
-      "startTime": "12:00",
-      "location": "Garaža",
+      "location": "P20",
       "accentColor": "#4A84A3"
+    },
+    {
+      "title": "Fishertechnik",
+      "startTime": "12:00",
+      "location": "P20",
+      "accentColor": "#4A84A3"
+    },
+    {
+      "title": "Minecraft Slovenia",
+      "startTime": "12:00",
+      "location": "P20",
+      "accentColor": "#4A84A3"
+    },
+
+    {
+      "title": "Zombie Walk",
+      "startTime": "12:00",
+      "location": "P19",
+      "accentColor": "#EB8B58"
+    },
+    {
+      "title": "Slavni dvojnik",
+      "startTime": "12:00",
+      "location": "P19",
+      "accentColor": "#EB8B58"
+    },
+    {
+      "title": "Parkinsoncheck",
+      "startTime": "12:00",
+      "location": "P19",
+      "accentColor": "#EB8B58"
+    },
+
+    {
+      "title": "Kriptografija",
+      "startTime": "12:00",
+      "location": "P21",
+      "accentColor": "#5BD1C0"
+    },
+    {
+      "title": "Peskovnik in Mindreader",
+      "startTime": "12:00",
+      "location": "P21",
+      "accentColor": "#5BD1C0"
+    },
+    {
+      "title": "Predstavitev projektov",
+      "startTime": "12:00",
+      "location": "P21",
+      "accentColor": "#5BD1C0"
+    },
+
+    {
+      "title": "Robotska roka",
+      "startTime": "12:00",
+      "location": "P18",
+      "accentColor": "#52CC5C"
+    },
+    {
+      "title": "Turtle bot",
+      "startTime": "12:00",
+      "location": "P18",
+      "accentColor": "#52CC5C"
     }
   ]
 }
