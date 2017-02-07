@@ -22,7 +22,21 @@
       "height": 84
     },
     "content": [
-      "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum lacus non nulla lacinia, id lobortis metus maximus. Maecenas finibus dui quam, iaculis volutpat purus ultrices non. Proin ut porttitor neque, sed bibendum velit.</p>"
+      "<p>V Garaži gradimo skupnost, kjer se srečujemo, učimo, razvijamo zanimive tehnološke projekte ter razpravljamo o novih idejah in tehnologijah. Je stična točka med študenti, akademskim okoljem ter gospodarstvom. Nadarjeni študenti vseh fakultet UL tu pridobivajo IKT znanja, nabirajo konkretne izkušnje, pilijo svoje tehnološke veščine in širijo svojo mrežo poznanstev.</p>"
+    ]
+  },
+  {
+    "title": "Svarog Games",
+    "accentColor": "#dc1c1b",
+    "location": "Garaža",
+    "image": {
+      "url": "https://raw.githubusercontent.com/garazaFRI/friappdata/master/company_images/svarog_games@3x.png",
+      "width": 230,
+      "height": 141
+    },
+    "content": [
+      "<p>Video igre za pametne televizije in Chromecast.</p>",
+      "<p>Smo študentje Fakultete za računalništvo in informatiko, Akademije za likovno umetnost ter Fakultete za družbene vede. Multidisciplinarno ekipo smo ustanovili v želji razvijanja video iger. Trenutno smo osredotočeni na igre za pametne televizije in napravo Chromecast. Trenutno imamo v razvoju tri igre, kot svojo prvo igro nameravamo izdati Six Shooter Showdown.</p>"
     ]
   },
   {
